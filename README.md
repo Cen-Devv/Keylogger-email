@@ -13,6 +13,10 @@
 <h1> Convertendo para executável</h1>
 - Convert.py é um código que permite que main.py vire um executável. Para usá-lo teremos que escrever no terminal "python convert.py build".
 
+  ![github-small](/images/imageone.png)
+  ![github-small](/images/imagetwor.png)
+  ![github-small](/images/imagethr.png)
+
 <h1>Ajudaram no desenvolvimento</h1>
 
 
