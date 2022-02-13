@@ -11,6 +11,7 @@
 - Começaremos a falar sobre o código, uma função chamada ( def_magic) nela está composta toda uma arquitetura do Keylogger que cria um arquivo,auxiliando caso o mesmo não exista. Sobre tudo teremos outra função, chamada envio que contém uma arquitetura de envio, Anexando e que irá conter as definições de horário para o envio do e-mail.Mais um componente importante citar, seria as threads que criam duas linhas de execução.
 
 <h1> Convertendo para executável</h1>
+
 - Convert.py é um código que permite que main.py vire um executável. Para usá-lo teremos que escrever no terminal "python convert.py build".
 
   ![github-small](/images/imageone.png)
